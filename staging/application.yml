@@ -1,4 +1,0 @@
-env=staging
-demo:
-  config:
-    dummy: "staging-dummy"
