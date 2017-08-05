@@ -1,1 +1,1 @@
-common: common-${env}-master
+common: common-${env}-prod
