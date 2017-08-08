@@ -3,4 +3,4 @@ scm_trilogy_git_private_key:  |
   -----BEGIN RSA PRIVATE KEY-----
   example_of_rsa_key_dev
   -----END RSA PRIVATE KEY-----
-combined_in_dev: from-secret-${combined_in_dev_secret}
+combined_in_dev: from-secret-${combined_in_properties}
