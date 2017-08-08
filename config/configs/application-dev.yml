@@ -2,6 +2,6 @@ env: dev
 scm_trilogy_git_private_key: '{cipher}dcfc6be63d5e0dc16d2a92abdaa2c9ae9062b6c194461a5915463013f9da45a150dbd018a0011015f1468c4b5fa9ced81c01d168518e2e7bfddfa153f45a0b47b9267581090130d9641319b576defd6bf71f19d24728e8ef84cc7bff6cf1ff4b991db171eee30a33560ae3e858eeb83e'
 combined_in_dev: from-secret-${combined_in_properties}
 scm_trilogy_git_private_key_original:  |
------BEGIN RSA PRIVATE KEY-----
-example_of_rsa_key_dev
------END RSA PRIVATE KEY-----
+  -----BEGIN RSA PRIVATE KEY-----
+  example_of_rsa_key_dev
+  -----END RSA PRIVATE KEY-----
