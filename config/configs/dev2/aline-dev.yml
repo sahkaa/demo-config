@@ -1,0 +1,2 @@
+file_aline_dev2: true
+combined_in_yml2: from-secret-${file_aline_dev_properties}
